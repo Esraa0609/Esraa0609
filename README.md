@@ -25,7 +25,7 @@ scalable APIs and databases using C#, ASP.NET Core, and SQL — I make ideas com
 I architect solutions that are not only functional but elegant, maintainable, and user-focused.
 
 
-But I'm More Than Just Code...
+**But I'm More Than Just Code...**
 
 Fresh out of my degree and fully diving into the world where code meets curiosity —  
 One minute, 
