@@ -17,14 +17,6 @@ I clean, explore, and visualize data, build and train predictive models, and tra
 Whether it's forecasting trends, segmenting users, or solving real-world problems 
 — I use data to tell stories that spark decisions.
 
-###**As a Full Stack .NET Developer**
-
-I build from the ground up — front to back.
-From crafting beautiful, intuitive UIs using HTML, CSS, JS, and Blazor — to building robust,
-scalable APIs and databases using C#, ASP.NET Core, and SQL — I make ideas come to life.
-I architect solutions that are not only functional but elegant, maintainable, and user-focused.
-
-
 **But I'm More Than Just Code...**
 
 Fresh out of my degree and fully diving into the world where code meets curiosity —  
