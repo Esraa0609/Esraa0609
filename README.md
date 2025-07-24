@@ -2,6 +2,7 @@
 
 
  **✨ 📊 Data Dreamer | 💻 Creative Coder | 🎨 Anime-Loving, ⚽Sporty Soul with a Sketchpad**
+
 I don’t just analyze data — I uncover stories behind the numbers. With a mind wired for logic 🧠 and a heart beating for creativity ❤️, 
 I live at the crossroads of art and science  🧬🎨.
 
