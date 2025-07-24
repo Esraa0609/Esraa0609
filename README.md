@@ -8,7 +8,7 @@ I live at the crossroads of art and science.
 
 Armed with a Data Science degree (with top honors) and a passion for bringing both structure and soul into technology, 
 
-I thrive in two worlds:
+I thrive in the world:
 
 ###**As a Data Scientist**
 
