@@ -7,23 +7,26 @@ I don’t just analyze data — I uncover stories behind the numbers. With a min
 I live at the crossroads of art and science.
 
 Armed with a Data Science degree (with top honors) and a passion for bringing both structure and soul into technology, 
+
 I thrive in two worlds:
 
-**As a Data Scientist**
+###**As a Data Scientist**
 
 I dive deep into oceans of raw data, seeking the patterns that others miss.
 I clean, explore, and visualize data, build and train predictive models, and translate numbers into powerful, actionable insights.
 Whether it's forecasting trends, segmenting users, or solving real-world problems 
 — I use data to tell stories that spark decisions.
 
-**As a Full Stack .NET Developer**
+###**As a Full Stack .NET Developer**
 
 I build from the ground up — front to back.
 From crafting beautiful, intuitive UIs using HTML, CSS, JS, and Blazor — to building robust,
 scalable APIs and databases using C#, ASP.NET Core, and SQL — I make ideas come to life.
 I architect solutions that are not only functional but elegant, maintainable, and user-focused.
 
+
 But I'm More Than Just Code...
+
 Fresh out of my degree and fully diving into the world where code meets curiosity —  
 One minute, 
 I’m building machine learning models — the next, 
