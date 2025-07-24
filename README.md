@@ -16,6 +16,8 @@ and the electric pulse of Anfield — dreaming of one day standing shoulder to s
 singing for the team that inspires me.
 
 I don’t just code like a data scientist.
+
 **I create like an artist with a love for numbers.**
+
 💡"Being different isn’t my flaw. It’s my edge."
 
