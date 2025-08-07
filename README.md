@@ -29,7 +29,6 @@ Whether it’s uncovering patterns in noisy data, optimizing user flows in a web
 ### 🎨 The Creative Side
 
 Outside the code, I stay inspired through art, stories, and sound:
-- 🎙 Dubbing anime characters for fun  
 - 🖌 Sketching worlds from my imagination  
 - 📚 Escaping into novels or losing myself in world-building games  
 - 🔴 I dream of the day I’ll stand at Anfield, shoulder to shoulder with the Liverpool faithful — singing “You’ll Never Walk Alone” not just as a chant, but as a reminder that passion, loyalty, and heart make all the difference — in football, and in life.
