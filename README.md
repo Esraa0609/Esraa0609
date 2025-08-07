@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Esraa Sayed  
 
-### 🧠 Analytical Junior Software Engineer | 📊 Data Dreamer | 💻 Creative Coder | 🎨 Anime Fan | ⚽ Liverpool Devotee
+### 📊 Data Dreamer | 💻 Creative Coder | 🎨 Anime Fan | ⚽ YNWA Spirit
 
 ---
 
@@ -50,14 +50,6 @@ I’d love to connect, collaborate, and create with you.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/esraa-sayed69/)  
 - 📧 esraasayed3423@gmail.com  
 
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esraa0609&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa0609&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Esraa0609&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Esraa0609&theme=radical&row=1&column=6)
 
 ---
 
