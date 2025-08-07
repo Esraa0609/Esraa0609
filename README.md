@@ -1,4 +1,4 @@
-# Hey there 👋 I'm [Esraa]  
+# Hey there 👋 I'm Esraa Sayed  
 
 ### 🧠 Analytical Junior Software Engineer | 📊 Data Dreamer | 💻 Creative Coder | 🎨 Anime Fan | ⚽ Liverpool Devotee
 
