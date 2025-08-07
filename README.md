@@ -1,36 +1,58 @@
-## Hi there 👋
+# Hi there 👋
 
+### ✨ 📊 *Data Dreamer* | 💻 *Creative Coder* | 🎨 *Anime-Loving, ⚽ Sporty Soul with a Sketchpad*
 
- **✨ 📊 Data Dreamer | 💻 Creative Coder | 🎨 Anime-Loving, ⚽Sporty Soul with a Sketchpad**
+I don’t just analyze data — **I uncover the stories hidden in the noise**.  
+With a mind wired for logic and a heart rooted in creativity, I thrive where **art meets science**.
 
-I don’t just analyze data — I uncover stories behind the numbers. With a mind wired for logic and a heart beating for creativity, 
-I live at the crossroads of art and science.
+---
 
-Armed with a Data Science degree (with top honors) and a passion for bringing both structure and soul into technology, 
+### 🎓 **Armed with a Data Science degree (with top honors)**  
+I bring both structure and soul into every line of code, every graph, and every model I build.
 
-I thrive in the world:
+---
 
-###**As a Data Scientist**
+### 🚀 **As a Data Scientist**
 
-I dive deep into oceans of raw data, seeking the patterns that others miss.
-I clean, explore, and visualize data, build and train predictive models, and translate numbers into powerful, actionable insights.
-Whether it's forecasting trends, segmenting users, or solving real-world problems 
-— I use data to tell stories that spark decisions.
+I dive deep into oceans of raw data, surfacing insights that move minds and decisions.  
+From cleaning and exploring messy datasets, to building predictive models and visualizing patterns —  
+**I speak the language of numbers, fluently and fearlessly.**
 
-**But I'm More Than Just Code...**
+Whether it’s:
+- 📈 Forecasting future trends  
+- 👥 Segmenting users with smart clustering  
+- 🧠 Solving real-world challenges with machine learning  
 
-Fresh out of my degree and fully diving into the world where code meets curiosity —  
-One minute, 
-I’m building machine learning models — the next, 
-I’m dubbing anime characters or painting scenes straight from my imagination.
+I transform complex data into compelling narratives that spark action.
 
-Some days I crave quiet and a good adventure novel. Other days, I’m all about noise, cheers,
-and the electric pulse of Anfield — dreaming of one day standing shoulder to shoulder with the Liverpool faithful,
-singing for the team that inspires me.
+---
 
-I don’t just code like a data scientist.
+### 🎭 **But I’m More Than Just Code...**
 
-**I create like an artist with a love for numbers.**
+Fresh from the academic trenches, I’m boldly stepping into the arena where **curiosity meets creation**.
 
-💡"Being different isn’t my flaw. It’s my edge."
+One moment, I'm tuning hyperparameters.  
+The next, I'm sketching anime scenes, voice-acting characters, or getting lost in an epic novel.  
+Some days I find peace in solitude — others, I’m shouting my lungs out with the **Anfield faithful**, dreaming of standing in that sea of red, singing for the team that stirs my soul: **Liverpool FC**.
 
+---
+
+### 🧠💖 I don’t just think like a scientist.  
+**I feel like an artist.**  
+And I create like both.
+
+> 💡 *"Being different isn’t my flaw. It’s my edge."*
+
+---
+
+### 📬 Let’s Connect!
+
+If you're into data, creativity, storytelling, or just vibing with the journey —  
+I’d love to connect, collaborate, or just geek out over anime and models!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-username/)  
+- 📧 Email me: your.email@example.com  
+
+---
+
+*Thanks for stopping by — let’s build something incredible together! 🚀*
