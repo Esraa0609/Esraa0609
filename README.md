@@ -12,7 +12,7 @@ I bring both **creativity and critical thinking** to every project and I’m alw
 
 ---
 
-### 💡 About Me
+### About Me
 
 I thrive where creativity meets complexity:
 - 🛠 Building full-stack apps that feel simple but do the complex work  
@@ -24,7 +24,7 @@ Whether it’s uncovering patterns in noisy data, optimizing user flows in a web
 
 ---
 
-### 🎨 The Creative Side
+### The Creative Side
 
 Outside the code, I stay inspired through art, stories, and sound:
 - 🖌 Sketching worlds from my imagination  
@@ -37,7 +37,7 @@ This harmony between **tech and creativity** is what defines me.
 
 ---
 
-### 🚀 Let's Build Something Together
+### Let's Build Something Together
 
 Whether you're building something bold, tackling something messy, or dreaming something new —  
 I’d love to connect, collaborate, and create with you.
