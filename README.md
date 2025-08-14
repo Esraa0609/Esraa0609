@@ -4,7 +4,7 @@
 
 ---
 
-I’m a **Junior Software Engineer** with a passion for building smart, user-friendly solutions that make a real difference.
+I’m a **Software Engineer** with a passion for building smart, user-friendly solutions that make a real difference.
 
 Skilled in **Python**, **SQL**, and modern **data tools**, I combine technical precision with a creative spark. From **full-stack web development** to **machine learning**, I love solving meaningful problems and crafting clean, scalable, human-centered experiences.
 
