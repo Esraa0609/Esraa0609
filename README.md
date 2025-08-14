@@ -1,16 +1,14 @@
-# Hey there 👋 I'm Esraa Sayed  
+# Hey there. I'm Esraa Sayed  
 
-### 📊 Data Dreamer | 💻 Creative Coder | 🎨 Anime Fan | ⚽ YNWA Spirit
+### Data Dreamer | Creative Coder | Anime Fan | YNWA Spirit
 
 ---
 
-I’m an **Analytical Junior Software Engineer** with a passion for building smart, user-friendly solutions that make a real difference.
+I’m a **Junior Software Engineer** with a passion for building smart, user-friendly solutions that make a real difference.
 
 Skilled in **Python**, **SQL**, and modern **data tools**, I combine technical precision with a creative spark. From **full-stack web development** to **machine learning**, I love solving meaningful problems and crafting clean, scalable, human-centered experiences.
 
 I bring both **creativity and critical thinking** to every project and I’m always eager to learn, grow, and take on new challenges.
-
-Graduated with top honors in **Data Science**, I live at the intersection of **logic and imagination**. I don’t just write code, I build with curiosity, empathy, and purpose.
 
 ---
 
